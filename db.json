@@ -1,7 +1,6 @@
 {
-  "network": 
-[
-   {
+  "instanceDetails": [
+     {
       "id":"i-0b3db6cb7bebde704",
       "cloudProvider":"aws",
       "type":"t2.micro",
@@ -24,5 +23,6 @@
          "architecture":"x86_64"
       }
    }
-]
+ 
+  ]
 }
