@@ -1,0 +1,25 @@
+[
+   {
+      "id":"i-0b3db6cb7bebde704",
+      "cloudProvider":"aws",
+      "type":"t2.micro",
+      "vpcId":"vpc-88a252ee",
+      "subnetId":"subnet-747cd912",
+      "publicIpAddress":"52.221.237.104",
+      "privateIpAddress":"172.31.22.75",
+      "status":"running",
+      "launchTime":"2022-03-31T06:04:08.000Z",
+      "placement":{
+         "region":"ap-southeast-1",
+         "availabilityZone":"ap-southeast-1a"
+      },
+      "os":{
+         "ImageId":"ami-0801a1e12f4a9ccc0",
+         "platform":"Linux/UNIX",
+         "name":"amzn2-ami-kernel-5.10-hvm-2.0.20220316.0-x86_64-gp2",
+         "description":"Amazon Linux 2 Kernel 5.10 AMI 2.0.20220316.0 x86_64 HVM gp2",
+         "hypervisor":"xen",
+         "architecture":"x86_64"
+      }
+   }
+]
