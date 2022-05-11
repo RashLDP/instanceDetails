@@ -1,17 +1,17 @@
 {
   "instanceDetails": [
      {
-     id: 1,
-    cloudProvider: "aws",
-    region: "us-east-2",
-    OsType: "linux",
-    OsConfiguration: "redhat",
-    instanceType: "t2.nano",
-    instanceName: "rsh",
-    numberOfInstances: 3,
-    networkIP: "172.0.0.0",
-    subnetIP: "172.0.0.0",
-    publicIP: "172.0.0.0"
+     "id": 1,
+    "cloudProvider": "aws",
+    "region": "us-east-2",
+    "OsType": "linux",
+    "OsConfiguration": "redhat",
+    "instanceType": "t2.nano",
+    "instanceName": "rsh",
+    "numberOfInstances": 3,
+    "networkIP": "172.0.0.0",
+    "subnetIP": "172.0.0.0",
+    "publicIP": "172.0.0.0"
    }
   
  
