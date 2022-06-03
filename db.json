@@ -15,7 +15,7 @@
     "publicIpAddress": "172.86.42.67",
     "privateIpAddress": "172.86.42.67",
     "status": "running",
-    "LaunchTime": "2022-03-31T06:04:08.000Z",
+    "launchTime": "2022-03-31T06:04:08.000Z",
   "os": {
     "platform": "Linux/unix",
     "name": "amzn2-ami-kernel-5.10-hvm-2.0.20220316.0-x86_64-gp2",
