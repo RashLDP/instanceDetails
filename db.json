@@ -2,16 +2,27 @@
   "instanceDetails": [
      {
     "id": "i-0b3db6cb7bebde704",
-    "cloudProvider": "aws",
-    "region": "us-east-2",
-    "OsType": "linux",
-    "OsConfiguration": "redhat",
-    "instanceType": "t2.nano",
-    "instanceName": "rsh",
-    "numberOfInstances": 3,
-    "networkIP": "172.0.0.0",
-    "subnetIP": "172.0.0.0",
-    "publicIP": "172.0.0.0"
+    "cloudProvider": "azure",
+    "name": "vsmas",
+    "type": "t2.micro",
+    "placement": {
+    "region": "centralus",
+    "resourceGroup": "dfsdf",
+    "availabilityZone": "centralUS-a"
+  },
+    "vpcId": "32432",
+    "subnetId": "32423",
+    "publicIpAddress": "172.86.42.67",
+    "privateIpAddress": "172.86.42.67",
+    "status": "running",
+    "LaunchTime": "2022-03-31T06:04:08.000Z",
+  "os": {
+    "platform": "Linux/unix",
+    "name": "amzn2-ami-kernel-5.10-hvm-2.0.20220316.0-x86_64-gp2",
+    "description": "",
+    "hypervisor": "xen",
+    "architecture": "x86_64"
+  }
    }
   
  
